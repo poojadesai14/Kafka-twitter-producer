@@ -27,10 +27,10 @@ import java.util.concurrent.TimeUnit;
 @Slf4j
 public class TwitterProducer {
 
-    String consumerKey = "qRAYItWMzhv9pLDIyTRdTfKRb";
-    String consumerSecret = "tOFMZOd3uu6GEHcbeUj25TwzZMcxwvUvsDrBxGgYJAuAokuTPY";
-    String token ="788387450372493312-mDnJvvgpwKKz8pJWhIKNIuqEQwIqiBJ";
-    String secret = "R8phLAQhPNIebl2Oq43CvlHBGmLx9LcfSgaQFeh1IHOz0";
+//     String consumerKey = "qRAYItWMzhv9pLDIyTRdTfKRb";
+//     String consumerSecret = "tOFMZOd3uu6GEHcbeUj25TwzZMcxwvUvsDrBxGgYJAuAokuTPY";
+//     String token ="788387450372493312-mDnJvvgpwKKz8pJWhIKNIuqEQwIqiBJ";
+//     String secret = "R8phLAQhPNIebl2Oq43CvlHBGmLx9LcfSgaQFeh1IHOz0";
 
     public TwitterProducer() {}
 
